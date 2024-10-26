@@ -1,16 +1,28 @@
-## Hi there 👋
+```
+Just an empty space, if I may say so. No need to introduce *void*.
 
-<!--
-**emptyynes/emptyynes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My languages:
+Lua -> lua/luvit/love2d
+\C -> gcc -> c99/c11/c23
+ \Kotlin/Java -> JVM/ART
+  \JavaScript -> Node.JS/WebJS
+   \Python -> CPython
+   |Bash
 
-Here are some ideas to get you started:
+Russian [native]
+\English [B2]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in AI, web (especially backend), decentralized networks, music, image processing, etc
+
+My configuration:
+ AMD Ryzen 7 3700 <- CPU | OS -> ArchLinux&W10LTSC
+     DDDDR4 32 GB <- RAM | DE -> KDE
+Yeston RX 6800 XT <- GPU | Browser -> Vivaldi
+1TB SSD + 2TB HDD <- ROM | IDE -> Sublime Text 4
+ FullHD 600Hz <- Monitor | Terminal Emulator -> Konsole
+               [ Ivy, Vanessa, Aqore ]
+```
+
+My socials:
+- Telegram: https://t.me/irpwqv21
+- Misskey: https://shitpost.poridge.club/@emptyy
