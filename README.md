@@ -22,7 +22,3 @@ Yeston RX 6800 XT <- GPU | Browser -> Vivaldi
  FullHD 600Hz <- Monitor | Terminal Emulator -> Konsole
                [ Ivy, Vanessa, Aqore ]
 ```
-
-My socials:
-- Telegram: https://t.me/irpwqv21
-- Misskey: https://shitpost.poridge.club/@emptyy
