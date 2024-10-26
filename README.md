@@ -1,5 +1,5 @@
 ```
-Just an empty space, if I may say so. No need to introduce *void*.
+Just an empty space, if I may say so. No need to introduce void.
 
 My languages:
 Lua -> lua/luvit/love2d
