@@ -19,6 +19,6 @@ My configuration:
      DDDDR4 32 GB <- RAM | DE -> KDE
 Yeston RX 6800 XT <- GPU | Browser -> Vivaldi
 1TB SSD + 2TB HDD <- ROM | IDE -> Sublime Text 4
- FullHD 600Hz <- Monitor | Terminal Emulator -> Konsole
+  FullHD 60Hz <- Monitor | Terminal Emulator -> Konsole
                [ Ivy, Vanessa, Aqore ]
 ```
