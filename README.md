@@ -20,5 +20,5 @@ My configuration:
 Yeston RX 6800 XT <- GPU | Browser -> Vivaldi
 1TB SSD + 2TB HDD <- ROM | IDE -> Sublime Text 4
   FullHD 60Hz <- Monitor | Terminal Emulator -> Konsole
-               [ Ivy, Vanessa, Aqore ]
+          [ Ivy, Vanessa, Nora, Neko ]
 ```
